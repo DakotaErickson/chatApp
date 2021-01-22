@@ -1,2 +1,2 @@
 # chatApp
-erickson-chat-app.herokuapp.com
+http://erickson-chat-app.herokuapp.com
